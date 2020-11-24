@@ -1,0 +1,174 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\Jackson\Desktop\Esame\Server.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jackson\Desktop\Esame\.
+Java min ver:	1.5.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8.0_171
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_91
+Ignore:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_171 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Jackson\Desktop\Esame\Server.exe"
+Args length:	48/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\Users\Jackson\Desktop\Esame\Encrypt.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jackson\Desktop\Esame\.
+Java min ver:	1.5.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8.0_171
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_91
+Ignore:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_171 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Jackson\Desktop\Esame\Encrypt.exe"
+Args length:	49/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\Users\Jackson\Desktop\Esame\Decryptor.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jackson\Desktop\Esame\.
+Java min ver:	1.5.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8.0_171
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_91
+Ignore:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_171 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Jackson\Desktop\Esame\Decryptor.exe"
+Args length:	51/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\Users\Jackson\Desktop\Esame\Encrypt.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jackson\Desktop\Esame\.
+Java min ver:	1.5.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8.0_171
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_91
+Ignore:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_171 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Jackson\Desktop\Esame\Encrypt.exe"
+Args length:	49/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	C:\Users\Jackson\Desktop\Esame\Encrypt.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\Jackson\Desktop\Esame\.
+Java min ver:	1.5.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8.0_171
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_91
+Ignore:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_171 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Jackson\Desktop\Esame\Encrypt.exe"
+Args length:	49/32768 chars
+Exit code:	0
+
+
+Version:	3.10
+CmdLine:	F:\Esame\Encrypt.exe --l4j-debug
+WOW64:		yes
+Working dir:	F:\Esame\.
+Java min ver:	1.5.0
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_171
+Check launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe (OK)
+Match:		1.8.0_171
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.8
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_101
+Ignore:		1.8.0_101
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_91
+Ignore:		1.8.0_091
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.8.0_171 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_171\bin\javaw.exe
+Launcher args:	-jar "F:\Esame\Encrypt.exe"
+Args length:	27/32768 chars
+Exit code:	0
